@@ -1,4 +1,4 @@
-halloweenies
+# Fright Night
 ============
 
-Howard Hack 2014 Game
+## Howard Hack 2014 Game - Team Clark
