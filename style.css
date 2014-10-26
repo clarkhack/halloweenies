@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2014, 2:37:07 PM
+    Author     : Chuck Onwuzuruike
+*/
+
+#title{
+    background-color: grey;
+    width: 90%;
+    margin-left: 3%;
+}
+
+p {
+    display: inline;
+    padding-left: 7%;
+    font-size: 150%;
+    font-family: arial;
+}
+
+#fFound, #health, #timer {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#main{
+    background-color: grey;
+    width: 90%;
+    margin-left: 3%;
+}
+body {
+    background-color: white;
+}
+
